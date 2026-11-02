@@ -104,8 +104,7 @@ public class Seller implements Serializable{
 				+ ", baseSalary="
 				+ baseSalary 
 				+ ", department=" 
-				+ department 
-				+ "]";
+				+ department;
 	}
 	
 	
